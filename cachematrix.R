@@ -1,5 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
 
 ## makeCacheMatrix create a matrix object with several methods that allows to access the
 ## inverse of the matrix, in case this inverse has been previously loaded.
